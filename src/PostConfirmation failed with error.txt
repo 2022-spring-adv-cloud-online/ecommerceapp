@@ -1,0 +1,9 @@
+PostConfirmation failed with error 
+User: 
+arn:aws:sts::471387403995:assumed-role/ecommerceapp22s4ba382c8PostConfirmation-dev/ecommerceapp22s4ba382c8PostConfirmation-dev 
+is not authorized to perform: 
+cognito-idp:
+CreateGroup on resource: 
+arn:aws:cognito-idp:us-east-2:471387403995:userpool/us-east-2_5rf0G0tN8 
+because no identity-based policy allows the 
+cognito-idp:CreateGroup action.
